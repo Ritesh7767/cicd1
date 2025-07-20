@@ -12,4 +12,6 @@ const server = new ApolloServer({
     }
 })
 
+console.log("hii there")
+
 export default server
